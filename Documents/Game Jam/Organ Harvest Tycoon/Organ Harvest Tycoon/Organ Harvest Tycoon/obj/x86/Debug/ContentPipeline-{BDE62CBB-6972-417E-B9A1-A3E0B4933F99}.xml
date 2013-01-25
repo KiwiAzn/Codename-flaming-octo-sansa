@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{BDE62CBB-6972-417E-B9A1-A3E0B4933F99}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\gamejam\Documents\Game Jam\Organ Harvest Tycoon\Organ Harvest Tycoon\Organ Harvest TycoonContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\gamejam\Documents\Game Jam\Organ Harvest Tycoon\Organ Harvest Tycoon\Organ Harvest Tycoon\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\gamejam\Documents\Game Jam\Organ Harvest Tycoon\Organ Harvest Tycoon\Organ Harvest Tycoon\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\gamejam\Documents\Game Jam\Organ Harvest Tycoon\Organ Harvest Tycoon\Organ Harvest Tycoon\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-06T08:32:01.4999962+13:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
